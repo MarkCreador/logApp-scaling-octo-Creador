@@ -1,6 +1,5 @@
 ## MARK CHRISTIAN CREADOR
 # Practice set 5-06
-# log app scale :cry:
 # description: this is my logapp scaling octo 
 <br>
 
